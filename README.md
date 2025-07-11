@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Computers Only Understand 1s and 0s**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
