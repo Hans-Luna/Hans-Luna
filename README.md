@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hans</h1>
 <h3 align="center">I am a computer science student</h3>
 
-- 🌱 I’m currently learning **solidity, mobile development,**
+- 🌱 I’m currently learning **mobile development**
 
 - 💬 Ask me about **anything**
 
